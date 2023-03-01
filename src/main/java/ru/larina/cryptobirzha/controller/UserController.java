@@ -12,7 +12,7 @@ import ru.larina.cryptobirzha.model.entity.User;
 import ru.larina.cryptobirzha.model.entity.Wallet;
 import ru.larina.cryptobirzha.service.ExchangeService;
 import ru.larina.cryptobirzha.service.UserService;
-import ru.larina.cryptobirzha.validator.UserValidator;
+
 
 import static ru.larina.cryptobirzha.model.entity.User.setSecretKey;
 import static ru.larina.cryptobirzha.validator.UserValidator.*;
